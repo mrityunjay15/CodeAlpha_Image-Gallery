@@ -22,7 +22,7 @@ It includes **lightbox view, navigation controls, hover effects, and category fi
 │── index.html # Main HTML file with internal CSS
 │── script.js # JavaScript for lightbox & filters
 
-
+ live demo -  [ https://mrityunjay15.github.io/CodeAlpha_Image-Gallery/ ]
 
 🔧 Built With
 
